@@ -17,7 +17,7 @@
     "helmet": "^7.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.2.2",
-    "nodemailer": "^6.9.12",
+    "nodemailer": "^7.0.9",
     "validator": "^13.11.0",
     "express-mongo-sanitize": "^2.2.0",
     "xss-clean": "^0.1.4"
